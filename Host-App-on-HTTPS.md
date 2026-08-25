@@ -139,10 +139,11 @@ After the certificate is installed, Apache serves the application through HTTPS.
 
 Final visual evidence of the HTTPS-secured application and secure browser connection.
 
-> **Figure 1** — Browser security panel confirming a secure HTTPS connection for `pavansai17.duckdns.org`.
->
-> *(Insert screenshot: `figure1-secure-connection.png`)*
+![Figure 1 — Browser security panel confirming a secure HTTPS connection](./images/figure1-secure-connection.png)
 
-> **Figure 2** — Hosted application successfully accessible through `pavansai17.duckdns.org` over HTTPS.
->
-> *(Insert screenshot: `figure2-hosted-app.png`)*
+**Figure 1** — Browser security panel confirming a secure HTTPS connection for `pavansai17.duckdns.org`.
+
+![Figure 2 — Hosted application accessible over HTTPS](./images/figure2-hosted-app.png)
+
+**Figure 2** — Hosted application successfully accessible through `pavansai17.duckdns.org` over HTTPS.
+
